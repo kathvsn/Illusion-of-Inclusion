@@ -1,4 +1,4 @@
 # Illusion of Inclusion
-An informative website about the issue of colorism and its promotion within the cosmetic industry. A strong emphasis is placed on skin lightening products.
+An informative website about the issue of colorism and its prominence within the cosmetic industry. A strong emphasis is placed on skin lightening products and the promotion of them to people of color. The phrase "Illusion of Inclusion" refers to the strategy of using light-skinned people of color in advertisements to lure in other people of color to try skin lightening products.
 
-Live site can be viewed [here](https://kathvsn.github.io/Illusion-of-Inclusion/).
+The live site can be viewed [here](https://kathvsn.github.io/Illusion-of-Inclusion/).
