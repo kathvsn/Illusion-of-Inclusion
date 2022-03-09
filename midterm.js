@@ -2,7 +2,6 @@ var x = document.getElementsByClassName("collapse");
 
 // x.length is num of elements tagged with the class "collapse"
 // essentially the num of collapsible btns on a given page
-// begins at 0 and ends x.length - 1
 for (var i = 0; i < x.length; i++) {
   // x[i] is the current button being clicked
   // ex: x[0] on the issue page is the first button aka the toxic ingredients button
